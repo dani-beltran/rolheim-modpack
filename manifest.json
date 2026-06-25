@@ -1,6 +1,6 @@
 {
     "name": "Rolheim_Modpack",
-    "version_number": "0.0.1",
+    "version_number": "0.0.3",
     "description": "A modpack for Rolheim server",
     "website_url": "https://github.com/dani-beltran/rolheim-modpack",
     "dependencies": [
@@ -11,8 +11,10 @@
         "Smoothbrain-ServerCharacters-1.4.16",
         "JereKuusela-BetterContinents-0.7.30",
         "OdinPlus-OdinHorse-1.6.1",
-        "ZenDragon-Zen_ModLib-1.11.14",
+        "ZenDragon-Zen_ModLib-1.12.2",
         "ZenDragon-ZenMap-1.8.0",
-        "Balrond-balrond_IdleActors-1.0.5"
+        "Balrond-balrond_IdleActors-1.0.5",
+        "ValheimModding-Jotunn-2.29.1",
+        "ValheimModding-HookGenPatcher-0.0.4"
     ]
 }
