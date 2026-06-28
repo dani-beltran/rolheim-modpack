@@ -11,10 +11,11 @@
         "Smoothbrain-ServerCharacters-1.4.16",
         "JereKuusela-BetterContinents-0.7.30",
         "OdinPlus-OdinHorse-1.6.1",
-        "ZenDragon-Zen_ModLib-1.12.2",
+        "ZenDragon-Zen_ModLib-1.12.4",
         "ZenDragon-ZenMap-1.8.0",
         "Balrond-balrond_IdleActors-1.0.5",
         "ValheimModding-Jotunn-2.29.1",
-        "ValheimModding-HookGenPatcher-0.0.4"
+        "ValheimModding-HookGenPatcher-0.0.4",
+        "Smoothbrain-Foraging-1.0.10"
     ]
 }
