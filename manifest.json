@@ -1,6 +1,6 @@
 {
     "name": "Rolheim_Modpack",
-    "version_number": "0.0.3",
+    "version_number": "0.1.0",
     "description": "A modpack for Rolheim server",
     "website_url": "https://github.com/dani-beltran/rolheim-modpack",
     "dependencies": [
